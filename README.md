@@ -1,1 +1,1 @@
-# Project page_object-cards   
+# Project page_object-cards    [![Build status](https://ci.appveyor.com/api/projects/status/0bexpkvnafgwwbgf/branch/master?svg=true)](https://ci.appveyor.com/project/OlgaLetkova/page-object/branch/master)
